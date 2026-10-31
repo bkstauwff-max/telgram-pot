@@ -1,0 +1,13 @@
+checked_at=2026-10-31T18:21:03Z
+launched_cmd=python3 main.py
+alive=yes
+status=running
+ports=53 2000 2222 12563 13005 16634 16635 16636 35521 38679 
+--- app log tail ---
+🔄 جاري تهيئة البوت...
+🚀 بدأ تشغيل البوت بنجاح! سيتم تحديث التثبيت كل 6 دقائق...
+🆕 تم التقاط رسالة جديدة بالقناة رقم: 11371
+📌 جاري إلغاء التثبيت السابق وإعادة تثبيت الرسالة رقم 11371...
+⚠️ خطأ من تيليجرام في (pinChatMessage): {"ok":false,"error_code":400,"description":"Bad Request: message to pin not found"}
+❌ فشل تثبيت الرسالة (11371). الرد: {'ok': False, 'error_code': 400, 'description': 'Bad Request: message to pin not found'}
+💤 الانتظار 6 دقائق (360 ثانية) قبل التحديث القادم...
